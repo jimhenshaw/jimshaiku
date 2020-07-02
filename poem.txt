@@ -1,2 +1,2 @@
 Git is like a friend
-I push and pull using Git
+but writing haiku's is hard
